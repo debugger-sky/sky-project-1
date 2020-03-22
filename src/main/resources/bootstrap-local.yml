@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sky-project-1
+  profiles:
+    active: local
+  cloud:
+    config:
+      uri: http://localhost:18888
