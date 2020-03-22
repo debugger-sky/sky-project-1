@@ -1,10 +1,10 @@
-package sky.project.skyproject2;
+package sky.project.skyproject1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SkyProject2ApplicationTests {
+class SkyProject1ApplicationTests {
 
 	@Test
 	void contextLoads() {
